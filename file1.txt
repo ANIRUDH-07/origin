@@ -1,4 +1,5 @@
 this is file1
 this is second line in file1.
-
+line added in master branch
 merge
+
